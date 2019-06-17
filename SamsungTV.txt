@@ -1,3 +1,8 @@
+# It could be that the TV does not receive any more updates or other services no longer work. Please report such an incident.
+# Please help to collect domains!
+# This is a blocklist to block samsung smart tv's sending meta data at home.
+#hub.samsungapps.com
+#vas.samsungapps.com
 abtauthprd.samsungcloudsolution.com
 acr0.samsungcloudsolution.com
 ad.samsungadhub.com
@@ -85,6 +90,7 @@ sso.internetat.tv
 syncplusconfig.s3.amazonaws.com
 targeted-config-test.samsungacr.com
 test.samsungrm.net
+#time.samsungcloudsolution.com
 upu.samsungelectronics.com
 us-api.samsungyosemite.com
 vd.emp.prd.s3.amazonaws.com
