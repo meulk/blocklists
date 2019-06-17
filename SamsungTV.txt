@@ -1,4 +1,3 @@
-#time.samsungcloudsolution.com // if blocked, services like Plex, YouTube and Amazon Video not working anymore on some Samsung TV's
 abtauthprd.samsungcloudsolution.com
 acr0.samsungcloudsolution.com
 ad.samsungadhub.com
