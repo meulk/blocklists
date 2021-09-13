@@ -37,6 +37,7 @@ log-ingestion-eu.samsungacr.com
 log.internetat.tv
 multiscreen.samsung.com
 musicid.samsungcloudsolution.com
+musicid.samsungcloud.tv
 notice.samsungcloudsolution.com
 noticecdn.samsungcloudsolution.com
 noticefile.samsungcloudsolution.com
